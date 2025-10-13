@@ -32,8 +32,8 @@
     "ping": "^0.4.4"
   },
   "devDependencies": {
-    "mocha": "^10.8.2",
-    "node-red": "^4.0.9",
+    "mocha": "^11.0.1",
+    "node-red": "^4.1.0",
     "node-red-node-test-helper": "^0.3.4",
     "should": "^13.2.3",
     "sinon": "^15.2.0"
