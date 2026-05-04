@@ -35,7 +35,7 @@
   "author": "Brian Rodriguez - BRDC.nl",
   "license": "MIT",
   "dependencies": {
-    "bonjour": "3.5.0",
+    "bonjour": "3.5.1",
     "ping": "^0.4.4"
   },
   "devDependencies": {
